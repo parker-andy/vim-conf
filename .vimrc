@@ -13,6 +13,9 @@ au FileType ruby setl sw=2 ts=2 et
 set number
 set wildmenu
 
+set incsearch
+set hlsearch
+
 nmap <cr> i<cr><esc>
 
 let mapleader=","
