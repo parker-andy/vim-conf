@@ -10,6 +10,7 @@ au FileType html setl sw=2 ts=2 et
 au FileType yaml setl sw=2 ts=2 et
 au FileType ruby setl sw=2 ts=2 et
 
+syntax on
 set number
 set wildmenu
 
