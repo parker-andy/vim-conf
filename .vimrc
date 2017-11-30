@@ -22,3 +22,4 @@ nmap <cr> i<cr><esc>
 let mapleader=","
 nnoremap <leader>r :so ~/.vimrc<cr>
 nnoremap <leader>n :set nonumber!<cr>:set number?<cr>
+nnoremap <leader>h :noh<cr>
